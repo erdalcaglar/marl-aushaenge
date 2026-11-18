@@ -137,7 +137,7 @@ def qr_img(url, out_dir):
     q = segno.make(url, error="m")
     q.save(out_dir / "qr.svg", scale=10, border=2, dark="#111111")
     q.save(out_dir / "qr.png", scale=20, border=2, dark="#111111")
-    return q.svg_inline(scale=10, border=2, dark="#111111")
+    return q.svg_inline(scale=10, border=4, dark="#111111", omitsize=True)
 
 
 def poster_html(n, svg):
