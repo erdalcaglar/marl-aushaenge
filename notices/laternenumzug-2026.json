@@ -1,0 +1,185 @@
+{
+  "slug": "laternenumzug-2026",
+  "emoji": "🏮",
+  "theme": "night",
+  "poster": {
+    "kicker": "Sankt Martin",
+    "title": "Laternenumzug",
+    "date": "Mittwoch, 11.11.2026",
+    "place": "Treffpunkt: im Garten",
+    "text": "Wir treffen uns im Garten und laufen gemeinsam mit den Kindern und ihren leuchtenden Laternen los.",
+    "note": "Alle Familien sind herzlich willkommen!"
+  },
+  "langs": {
+    "de": {
+      "title": "Laternenumzug",
+      "subtitle": "Sankt Martin – wir laufen gemeinsam mit Laternen",
+      "facts": [
+        ["when", "Mittwoch, 11. November 2026"],
+        ["where", "Treffpunkt im Garten der Unterkunft"],
+        ["who", "Alle Kinder mit ihren Familien"]
+      ],
+      "text": "Wir treffen uns im Garten und laufen gemeinsam mit den Kindern und ihren leuchtenden Laternen los. Bringt eure Laterne mit!",
+      "tips": ["Warme Kleidung anziehen", "Am besten Laternen mit LED-Licht", "Kinder bleiben bei ihren Eltern"],
+      "bg_title": "Was ist ein Laternenumzug?",
+      "bg_text": "Am 11. November ist in Deutschland der Martinstag. Er erinnert an den heiligen Martin: Er war Soldat und teilte seinen Mantel mit einem frierenden armen Mann. An diesem Tag laufen Kinder am Abend mit bunten Laternen durch die Straßen und singen Martinslieder. Oft gibt es ein Feuer, einen Reiter auf einem Pferd und süßes Gebäck. Die Botschaft: Teilen, Licht in der Dunkelheit und Gemeinschaft. Alle können mitmachen – egal welche Religion.",
+      "links": [
+        ["wiki", "Wikipedia: Laternelaufen", "https://de.wikipedia.org/wiki/Laternelaufen"],
+        ["video", "Videos: Laternenumzug & Martinslieder", "https://www.youtube.com/results?search_query=Sankt+Martin+Laternenumzug+Kinder"]
+      ]
+    },
+    "ar": {
+      "title": "موكب الفوانيس",
+      "subtitle": "عيد القديس مارتن – نمشي معًا بالفوانيس",
+      "facts": [
+        ["when", "الأربعاء، 11 نوفمبر 2026"],
+        ["where", "نلتقي في حديقة السكن"],
+        ["who", "جميع الأطفال مع عائلاتهم"]
+      ],
+      "text": "نلتقي في الحديقة ونمشي معًا مع الأطفال وهم يحملون فوانيسهم المضيئة. أحضروا فانوسكم معكم!",
+      "tips": ["البسوا ملابس دافئة", "الأفضل فوانيس بضوء LED", "يبقى الأطفال مع والديهم"],
+      "bg_title": "ما هو موكب الفوانيس؟",
+      "bg_text": "في 11 نوفمبر يُحتفل في ألمانيا بيوم القديس مارتن. كان مارتن جنديًا شارك معطفه مع رجل فقير يرتجف من البرد. في هذا اليوم يمشي الأطفال مساءً في الشوارع حاملين فوانيس ملونة ويغنّون أغاني مارتن. غالبًا توجد نار وفارس على حصان ومعجنات حلوة. الرسالة: المشاركة، والنور في الظلام، والمجتمع. يمكن للجميع المشاركة مهما كان دينهم.",
+      "links": [
+        ["wiki", "ويكيبيديا: يوم القديس مارتن", "https://ar.wikipedia.org/w/index.php?search=%D8%B9%D9%8A%D8%AF+%D8%A7%D9%84%D9%82%D8%AF%D9%8A%D8%B3+%D9%85%D8%A7%D8%B1%D8%AA%D9%86"],
+        ["video", "فيديوهات: موكب الفوانيس", "https://www.youtube.com/results?search_query=Sankt+Martin+Laternenumzug+Kinder"]
+      ]
+    },
+    "en": {
+      "title": "Lantern Walk",
+      "subtitle": "St. Martin's Day – we walk together with lanterns",
+      "facts": [
+        ["when", "Wednesday, 11 November 2026"],
+        ["where", "Meeting point: the garden of our accommodation"],
+        ["who", "All children with their families"]
+      ],
+      "text": "We meet in the garden and walk together with the children and their glowing lanterns. Bring your lantern!",
+      "tips": ["Wear warm clothes", "Lanterns with LED lights are best", "Children stay with their parents"],
+      "bg_title": "What is a lantern walk?",
+      "bg_text": "On 11 November Germany celebrates St. Martin's Day. It remembers Saint Martin, a soldier who shared his cloak with a poor man who was freezing. On this evening children walk through the streets with colourful lanterns and sing St. Martin songs. Often there is a bonfire, a rider on a horse and sweet pastries. The message: sharing, light in the darkness and community. Everyone can join – whatever their religion.",
+      "links": [
+        ["wiki", "Wikipedia: St. Martin's Day", "https://en.wikipedia.org/wiki/Saint_Martin%27s_Day"],
+        ["video", "Videos: lantern walk", "https://www.youtube.com/results?search_query=Sankt+Martin+Laternenumzug+Kinder"]
+      ]
+    },
+    "fr": {
+      "title": "Défilé des lanternes",
+      "subtitle": "La Saint-Martin – nous marchons ensemble avec des lanternes",
+      "facts": [
+        ["when", "Mercredi 11 novembre 2026"],
+        ["where", "Rendez-vous dans le jardin du foyer"],
+        ["who", "Tous les enfants avec leurs familles"]
+      ],
+      "text": "Nous nous retrouvons dans le jardin et partons ensemble avec les enfants et leurs lanternes lumineuses. Apportez votre lanterne !",
+      "tips": ["Mettez des vêtements chauds", "De préférence des lanternes à LED", "Les enfants restent avec leurs parents"],
+      "bg_title": "Qu'est-ce que le défilé des lanternes ?",
+      "bg_text": "Le 11 novembre, l'Allemagne fête la Saint-Martin. Elle rappelle saint Martin, un soldat qui a partagé son manteau avec un pauvre homme qui avait froid. Ce soir-là, les enfants marchent dans les rues avec des lanternes colorées et chantent des chansons de saint Martin. Souvent, il y a un feu, un cavalier à cheval et des pâtisseries. Le message : partager, la lumière dans l'obscurité et le vivre-ensemble. Tout le monde peut participer, quelle que soit sa religion.",
+      "links": [
+        ["wiki", "Wikipédia : la Saint-Martin", "https://fr.wikipedia.org/w/index.php?search=Saint-Martin+11+novembre+lanternes"],
+        ["video", "Vidéos : défilé des lanternes", "https://www.youtube.com/results?search_query=Sankt+Martin+Laternenumzug+Kinder"]
+      ]
+    },
+    "ku": {
+      "title": "Meşa Fenerê",
+      "subtitle": "Roja Martînê Pîroz – em bi feneran re bi hev re dimeşin",
+      "facts": [
+        ["when", "Çarşem, 11ê Mijdarê 2026"],
+        ["where", "Cihê hevdîtinê: baxçeyê cihê niştecîbûnê"],
+        ["who", "Hemû zarok bi malbatên xwe re"]
+      ],
+      "text": "Em li baxçe dicivin û bi zarokan û fenerên wan ên ronî re bi hev re dest bi meşê dikin. Fenera xwe bi xwe re bînin!",
+      "tips": ["Cilên germ li xwe bikin", "Fenerên bi ronahiya LED çêtir in", "Zarok li cem dê û bavên xwe dimînin"],
+      "bg_title": "Meşa Fenerê çi ye?",
+      "bg_text": "Di 11ê Mijdarê de li Almanyayê Roja Martînê tê pîrozkirin. Ev roj Martînê pîroz bi bîr tîne: ew leşkerek bû û qapûtê xwe bi mirovekî feqîr ê ku ji sermayê dilerizî re parve kir. Wê êvarê zarok bi fenerên rengîn di kolanan de dimeşin û stranên Martînê dibêjin. Gelek caran agirek, siwarek li ser hespê û şîranî hene. Peyam: parvekirin, ronahî di tariyê de û civak. Her kes dikare beşdar bibe – ji kîjan olê dibe bila bibe.",
+      "links": [
+        ["wiki", "Wikipedia (Îngilîzî): St. Martin's Day", "https://en.wikipedia.org/wiki/Saint_Martin%27s_Day"],
+        ["video", "Vîdyo: Meşa Fenerê", "https://www.youtube.com/results?search_query=Sankt+Martin+Laternenumzug+Kinder"]
+      ]
+    },
+    "tr": {
+      "title": "Fener Alayı",
+      "subtitle": "Aziz Martin Günü – fenerlerle birlikte yürüyoruz",
+      "facts": [
+        ["when", "Çarşamba, 11 Kasım 2026"],
+        ["where", "Buluşma yeri: yurdun bahçesi"],
+        ["who", "Tüm çocuklar aileleriyle birlikte"]
+      ],
+      "text": "Bahçede buluşuyoruz ve çocuklarla, ellerindeki ışıl ışıl fenerlerle birlikte yürümeye başlıyoruz. Fenerinizi getirin!",
+      "tips": ["Kalın giyinin", "LED ışıklı fenerler en iyisi", "Çocuklar ebeveynlerinin yanında kalır"],
+      "bg_title": "Fener alayı nedir?",
+      "bg_text": "11 Kasım'da Almanya'da Aziz Martin Günü kutlanır. Bu gün Aziz Martin'i anar: O bir askerdi ve paltosunu soğuktan titreyen fakir bir adamla paylaştı. O akşam çocuklar renkli fenerlerle sokaklarda yürür ve Martin şarkıları söyler. Çoğu zaman bir ateş, atlı bir süvari ve tatlı çörekler olur. Mesajı: paylaşmak, karanlıkta ışık ve birliktelik. Dini ne olursa olsun herkes katılabilir.",
+      "links": [
+        ["wiki", "Vikipedi: Aziz Martin Günü", "https://tr.wikipedia.org/w/index.php?search=Aziz+Martin+G%C3%BCn%C3%BC"],
+        ["video", "Videolar: Fener alayı", "https://www.youtube.com/results?search_query=Sankt+Martin+Laternenumzug+Kinder"]
+      ]
+    },
+    "sq": {
+      "title": "Parada e fenerëve",
+      "subtitle": "Dita e Shën Martinit – ecim së bashku me fenerë",
+      "facts": [
+        ["when", "E mërkurë, 11 nëntor 2026"],
+        ["where", "Takimi: në kopshtin e strehimit"],
+        ["who", "Të gjithë fëmijët me familjet e tyre"]
+      ],
+      "text": "Takohemi në kopsht dhe nisemi së bashku me fëmijët dhe fenerët e tyre të ndriçuar. Merrni fenerin tuaj me vete!",
+      "tips": ["Vishuni ngrohtë", "Më mirë fenerë me dritë LED", "Fëmijët qëndrojnë me prindërit"],
+      "bg_title": "Çfarë është parada e fenerëve?",
+      "bg_text": "Më 11 nëntor në Gjermani festohet Dita e Shën Martinit. Ajo kujton Shën Martinin, një ushtar që e ndau mantelin e tij me një burrë të varfër që po ngrinte nga të ftohtit. Atë mbrëmje fëmijët ecin nëpër rrugë me fenerë shumëngjyrësh dhe këndojnë këngë të Shën Martinit. Shpesh ka zjarr, një kalorës mbi kalë dhe ëmbëlsira. Mesazhi: ndarja, drita në errësirë dhe bashkësia. Të gjithë mund të marrin pjesë, pavarësisht fesë.",
+      "links": [
+        ["wiki", "Wikipedia: Dita e Shën Martinit", "https://sq.wikipedia.org/w/index.php?search=Sh%C3%ABn+Martini"],
+        ["video", "Video: parada e fenerëve", "https://www.youtube.com/results?search_query=Sankt+Martin+Laternenumzug+Kinder"]
+      ]
+    },
+    "ru": {
+      "title": "Шествие с фонариками",
+      "subtitle": "День святого Мартина – идём вместе с фонариками",
+      "facts": [
+        ["when", "Среда, 11 ноября 2026"],
+        ["where", "Место встречи: сад общежития"],
+        ["who", "Все дети со своими семьями"]
+      ],
+      "text": "Мы встречаемся в саду и вместе с детьми и их светящимися фонариками отправляемся в путь. Возьмите с собой фонарик!",
+      "tips": ["Оденьтесь тепло", "Лучше всего фонарики со светодиодами", "Дети остаются с родителями"],
+      "bg_title": "Что такое шествие с фонариками?",
+      "bg_text": "11 ноября в Германии отмечают День святого Мартина. Он напоминает о святом Мартине – солдате, который поделился своим плащом с замерзающим бедняком. В этот вечер дети ходят по улицам с яркими фонариками и поют песни о Мартине. Часто разжигают костёр, появляется всадник на коне и угощают сладкой выпечкой. Смысл праздника: делиться, свет во тьме и общность. Участвовать могут все, независимо от религии.",
+      "links": [
+        ["wiki", "Википедия: День святого Мартина", "https://ru.wikipedia.org/w/index.php?search=%D0%94%D0%B5%D0%BD%D1%8C+%D1%81%D0%B2%D1%8F%D1%82%D0%BE%D0%B3%D0%BE+%D0%9C%D0%B0%D1%80%D1%82%D0%B8%D0%BD%D0%B0"],
+        ["video", "Видео: шествие с фонариками", "https://www.youtube.com/results?search_query=Sankt+Martin+Laternenumzug+Kinder"]
+      ]
+    },
+    "fa": {
+      "title": "رژهٔ فانوس‌ها",
+      "subtitle": "روز سنت مارتین – با فانوس‌ها با هم راه می‌رویم",
+      "facts": [
+        ["when", "چهارشنبه، ۱۱ نوامبر ۲۰۲۶"],
+        ["where", "محل دیدار: باغ محل اقامت"],
+        ["who", "همهٔ کودکان همراه با خانواده‌هایشان"]
+      ],
+      "text": "در باغ همدیگر را می‌بینیم و با کودکان و فانوس‌های روشنشان با هم راه می‌افتیم. فانوس خود را همراه بیاورید!",
+      "tips": ["لباس گرم بپوشید", "فانوس با چراغ LED بهتر است", "کودکان کنار والدین خود می‌مانند"],
+      "bg_title": "رژهٔ فانوس چیست؟",
+      "bg_text": "در ۱۱ نوامبر در آلمان روز سنت مارتین جشن گرفته می‌شود. این روز یادآور سنت مارتین است: او سربازی بود که پالتوی خود را با مردی فقیر که از سرما می‌لرزید تقسیم کرد. در این شب کودکان با فانوس‌های رنگی در خیابان‌ها راه می‌روند و آوازهای مارتین را می‌خوانند. اغلب آتش، سوارکاری بر اسب و شیرینی هم هست. پیام آن: تقسیم کردن، نور در تاریکی و با هم بودن. همه می‌توانند شرکت کنند، از هر دینی که باشند.",
+      "links": [
+        ["wiki", "ویکی‌پدیا: روز سنت مارتین", "https://fa.wikipedia.org/w/index.php?search=%D8%B3%D9%86%D8%AA+%D9%85%D8%A7%D8%B1%D8%AA%DB%8C%D9%86"],
+        ["video", "ویدیو: رژهٔ فانوس", "https://www.youtube.com/results?search_query=Sankt+Martin+Laternenumzug+Kinder"]
+      ]
+    },
+    "zh": {
+      "title": "灯笼游行",
+      "subtitle": "圣马丁节 —— 我们一起提着灯笼游行",
+      "facts": [
+        ["when", "2026年11月11日（星期三）"],
+        ["where", "集合地点：住所的花园"],
+        ["who", "所有孩子和他们的家人"]
+      ],
+      "text": "我们在花园集合，和孩子们一起提着发光的灯笼出发。请带上你的灯笼！",
+      "tips": ["请穿暖和的衣服", "最好使用LED灯笼", "孩子请跟在父母身边"],
+      "bg_title": "什么是灯笼游行？",
+      "bg_text": "11月11日是德国的圣马丁节，用来纪念圣马丁：他是一名士兵，曾把自己的斗篷分给一位冻得发抖的穷人。这天晚上，孩子们提着彩色灯笼走上街头，唱圣马丁之歌。常常还有篝火、骑马的人和甜点。节日的意义是：分享、黑暗中的光明和团结。无论信仰什么宗教，每个人都可以参加。",
+      "links": [
+        ["wiki", "维基百科：圣马丁节", "https://zh.wikipedia.org/w/index.php?search=%E5%9C%A3%E9%A9%AC%E4%B8%81%E8%8A%82"],
+        ["video", "视频：灯笼游行", "https://www.youtube.com/results?search_query=Sankt+Martin+Laternenumzug+Kinder"]
+      ]
+    }
+  }
+}
